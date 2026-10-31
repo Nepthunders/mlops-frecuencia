@@ -1,0 +1,2 @@
+# mlops-frecuencia
+Trabajo seminario
